@@ -17,31 +17,30 @@
 
       <div class="col-lg-2 col-md-6">
         <div class="footer-logo-area1">
-          <h3>About Link</h3>
+          <h3>Links</h3>
           <ul>
-            <li><a href="blog.php">Our Blog</a></li>
             <li><a href="about.php">About Us</a></li>
             <li><a href="service1.php">Services</a></li>
-            <li><a href="case.php">Marketing</a></li>
             <li><a href="testimonials.php">Testimonials</a></li>
             <li><a href="contact.php">Contact Us</a></li>
+            <li><a href="blogs.php">Our Blog</a></li>
           </ul>
         </div>
       </div>
 
-      <div class="col-lg-3 col-md-6">
+      <div class="col-lg-4 col-md-6">
         <div class="footer-logo-area2">
           <h3>Get in touch</h3>
           <ul>
+            <li><a href="tel:123-456-7890"><img src="assets/img/icons/phone.svg" alt=""><span>+91-9083536033</span></a></li>
             <li><a href="404-4.php"><img src="assets/img/icons/email.svg" alt=""><span>Infoseoc@gmail.com</span></a></li>
-            <li><a href="#"><img src="assets/img/icons/location.svg" alt=""><span>8708 Technology Forest <br class="d-lg-block d-none"> Pl Suite 125 -G, The <br class="d-lg-block d-none"> Woodlands, TX 773</span></a></li>
-            <li><a href="tel:123-456-7890"><img src="assets/img/icons/phone.svg" alt=""><span>123-456-7890</span></a></li>
+            <li><a href="#"><img src="assets/img/icons/location.svg" alt=""><span>Noida Sector 62 <br class="d-lg-block d-none"> Gautam Buddha Nagar <br class="d-lg-block d-none">Uttar Pradesh-201309</span></a></li>
           </ul>
         </div>
       </div>
       <div class="col-lg-3 col-md-6">
         <div class="footer-logo-area3">
-          <h3>Subscribe Our Newsletter</h3>
+          <h3>Subscribe Newsletter</h3>
           
           <form action="#">
             <input type="text" placeholder="Enter Your email">
@@ -57,7 +56,7 @@
       <div class="col-lg-12">
         <div class="copyright-area">
           <div class="pera">
-            <p>ⓒCopyright 2024 SEOC . All rights reserved</p>
+            <p>ⓒ2024 <a href="www.webservicesglobal.com">WebServicesGlobal</a>. All rights reserved</p>
           </div>
           <ul>
             <li><a href="#">Terms & Conditions</a></li>

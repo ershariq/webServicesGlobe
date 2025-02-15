@@ -81,10 +81,10 @@
       </li>
       <li><a href="#">Blogs</a>
         <ul class="sub-menu">
-          <li><a href="blog.php">Blog One</a></li>
+          <li><a href="blogs.php">Blog One</a></li>
           <li><a href="blog-left.php">Blog Left</a></li>
           <li><a href="blog-right.php">Blog Right</a></li>
-          <li><a href="blog-single.php">Blog Single</a></li>
+          <li><a href="blog.php">Blog Single</a></li>
         </ul>
       </li>
       <li><a href="#">Pages</a>

@@ -1,7 +1,7 @@
 <?php include("header.php"); ?>
 
-  <!--===== MOBILE HEADER STARTS =======-->
- <div class="mobile-header mobile-haeder1 d-block d-lg-none">
+<!--===== MOBILE HEADER STARTS =======-->
+<div class="mobile-header mobile-haeder1 d-block d-lg-none">
   <div class="container-fluid">
     <div class="col-12">
       <div class="mobile-header-elements">
@@ -24,10 +24,10 @@
     <div class="menu-close">
       <i class="fa-solid fa-xmark"></i>
     </div>
-   </div>
+  </div>
   <div class="mobile-nav mobile-nav1">
     <ul class="mobile-nav-list nav-list1">
-      <li><a href="#" >Home </a>
+      <li><a href="#">Home </a>
         <ul class="sub-menu">
           <li>
             <a href="#">Multiple Page</a>
@@ -83,10 +83,10 @@
       </li>
       <li><a href="#">Blogs</a>
         <ul class="sub-menu">
-          <li><a href="blog.php">Blog One</a></li>
+          <li><a href="blogs.php">Blog One</a></li>
           <li><a href="blog-left.php">Blog Left</a></li>
           <li><a href="blog-right.php">Blog Right</a></li>
-          <li><a href="blog-single.php">Blog Single</a></li>
+          <li><a href="blog.php">Blog Single</a></li>
         </ul>
       </li>
       <li><a href="#">Pages</a>
@@ -104,7 +104,7 @@
     </ul>
 
     <div class="allmobilesection">
-      <a href="contact.php"  class="header-btn1">Get Started <span><i class="fa-solid fa-arrow-right"></i></span></a>
+      <a href="contact.php" class="header-btn1">Get Started <span><i class="fa-solid fa-arrow-right"></i></span></a>
       <div class="single-footer">
         <h3>Contact Info</h3>
         <div class="footer1-contact-info">
@@ -128,20 +128,20 @@
 
           <div class="single-footer">
             <h3>Our Location</h3>
-            
+
             <div class="contact-info-single">
               <div class="contact-info-icon">
                 <i class="fa-solid fa-location-dot"></i>
               </div>
               <div class="contact-info-text">
-                <a href="mailto:info@example.com" >55 East Birchwood Ave.Brooklyn, <br> New York 11201,United States</a>
+                <a href="mailto:info@example.com">55 East Birchwood Ave.Brooklyn, <br> New York 11201,United States</a>
               </div>
             </div>
 
           </div>
           <div class="single-footer">
             <h3>Social Links</h3>
-            
+
             <div class="social-links-mobile-menu">
               <ul>
                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
@@ -153,184 +153,197 @@
           </div>
         </div>
       </div>
-     </div>
+    </div>
   </div>
 </div>
 <!--===== MOBILE HEADER STARTS =======-->
 
 <!--===== HERO AREA STARTS =======-->
-<div class="about-header-area" style="background-image: url(assets/img/bg/inner-header.png); background-repeat: no-repeat; background-size: cover; background-position: center;">
-    <img src="assets/img/elements/elements1.png" alt="" class="elements1 aniamtion-key-1">
-    <img src="assets/img/elements/star2.png" alt="" class="star2 keyframe5">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-5 m-auto">
-                <div class="about-inner-header heading9 text-center">
-                    <h1>Our Best Services</h1>
-                    <a href="index.php">Home <i class="fa-solid fa-angle-right"></i> <span>Services</span></a>
-                </div>
-            </div>
+<div class="about-header-area"
+  style="background-image: url(assets/img/bg/inner-header.png); background-repeat: no-repeat; background-size: cover; background-position: center;">
+  <img src="assets/img/elements/elements1.png" alt="" class="elements1 aniamtion-key-1">
+  <img src="assets/img/elements/star2.png" alt="" class="star2 keyframe5">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5 m-auto">
+        <div class="about-inner-header heading9 text-center">
+          <h1>Our Best Services</h1>
+          <a href="index.php">Home <i class="fa-solid fa-angle-right"></i> <span>Services</span></a>
         </div>
+      </div>
     </div>
+  </div>
 </div>
 <!--===== HERO AREA ENDS =======-->
 
 <!--===== SERVICE AREA STARTS =======-->
 <div class="service1-section-area sp2">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="service-all-boxes-area1">
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <div class="service-boxarea">
-                        <a href="service1.php">Search Engine Optimization ( SEO)</a>
-                        <div class="space40"></div>
-                        <img src="assets/img/icons/service-icon1.svg" alt="">
-                        <div class="space40"></div>
-                        <p>Enhance your online visibility & drive organic traffic with our advanced SEO techniques. We optimize your website to rank higher.</p>
-                      </div>
-                </div>
-           
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="service-all-boxes-area1">
+          <div class="row">
             <div class="col-lg-3 col-md-6">
-                <div class="service-boxarea">
-                    <a href="service1.php">Pay-Per-Click (PPC) Advertising</a>
-                    <div class="space40"></div>
-                    <img src="assets/img/icons/service-icon2.svg" alt="">
-                    <div class="space40"></div>
-                    <p>Reach your audience instantly and drive qualified leads with targeted PPC campaigns. Our experts craft compelling ad copy and optimize.</p>
-                  </div>
-            </div>
-  
-            <div class="col-lg-3 col-md-6">
-                <div class="service-boxarea">
-                    <a href="service1.php">Social Media Marketing</a>
-                    <div class="space66"></div>
-                    <img src="assets/img/icons/service-icon3.svg" alt="">
-                    <div class="space40"></div>
-                    <p>Build a strong brand presence and engage with your audience on social media platforms. We create strategic social media campaigns </p>
-                  </div>
-            </div>
-  
-            <div class="col-lg-3 col-md-6">
-                <div class="service-boxarea">
-                    <a href="service1.php">Website Design and Development</a>
-                    <div class="space40"></div>
-                    <img src="assets/img/icons/service-icon4.svg" alt="">
-                    <div class="space40"></div>
-                    <p>Make a lasting impression with a professionally designed and user-friendly website. Our web design and development services ensure.</p>
-                  </div>
+              <div class="service-boxarea">
+                <a href="service1.php">Search Engine Optimization ( SEO)</a>
+                <div class="space40"></div>
+                <img src="assets/img/icons/service-icon1.svg" alt="">
+                <div class="space40"></div>
+                <p>Enhance your online visibility & drive organic traffic with our advanced SEO techniques. We optimize
+                  your website to rank higher.</p>
+              </div>
             </div>
 
             <div class="col-lg-3 col-md-6">
-                <div class="service-boxarea">
-                    <a href="service1.php">Content Marketing</a>
-                    <div class="space40"></div>
-                    <img src="assets/img/icons/service-icon15.svg" alt="">
-                    <div class="space40"></div>
-                    <p>We craft compelling content that educates, entertains, and inspires your audience, driving engagement and building brand loyalty. </p>
-                  </div>
+              <div class="service-boxarea">
+                <a href="service1.php">Pay-Per-Click (PPC) Advertising</a>
+                <div class="space40"></div>
+                <img src="assets/img/icons/service-icon2.svg" alt="">
+                <div class="space40"></div>
+                <p>Reach your audience instantly and drive qualified leads with targeted PPC campaigns. Our experts
+                  craft compelling ad copy and optimize.</p>
+              </div>
             </div>
-       
-        <div class="col-lg-3 col-md-6">
-            <div class="service-boxarea">
+
+            <div class="col-lg-3 col-md-6">
+              <div class="service-boxarea">
+                <a href="service1.php">Social Media Marketing</a>
+                <div class="space66"></div>
+                <img src="assets/img/icons/service-icon3.svg" alt="">
+                <div class="space40"></div>
+                <p>Build a strong brand presence and engage with your audience on social media platforms. We create
+                  strategic social media campaigns </p>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+              <div class="service-boxarea">
+                <a href="service1.php">Website Design and Development</a>
+                <div class="space40"></div>
+                <img src="assets/img/icons/service-icon4.svg" alt="">
+                <div class="space40"></div>
+                <p>Make a lasting impression with a professionally designed and user-friendly website. Our web design
+                  and development services ensure.</p>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+              <div class="service-boxarea">
+                <a href="service1.php">Content Marketing</a>
+                <div class="space40"></div>
+                <img src="assets/img/icons/service-icon15.svg" alt="">
+                <div class="space40"></div>
+                <p>We craft compelling content that educates, entertains, and inspires your audience, driving engagement
+                  and building brand loyalty. </p>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+              <div class="service-boxarea">
                 <a href="service1.php">Email Marketing</a>
                 <div class="space40"></div>
                 <img src="assets/img/icons/service-icon16.svg" alt="">
                 <div class="space40"></div>
-                <p>We design and implement effective email marketing campaigns to nurture leads, promote products or services, and drive conversions.</p>
+                <p>We design and implement effective email marketing campaigns to nurture leads, promote products or
+                  services, and drive conversions.</p>
               </div>
-        </div>
+            </div>
 
-        <div class="col-lg-3 col-md-6">
-            <div class="service-boxarea">
+            <div class="col-lg-3 col-md-6">
+              <div class="service-boxarea">
                 <a href="service1.php">Analytics And Reporting</a>
                 <div class="space40"></div>
                 <img src="assets/img/icons/service-icon17.svg" alt="">
                 <div class="space40"></div>
-                <p>We track and measure the performance of your digital marketing campaigns using advanced analytics tools. </p>
+                <p>We track and measure the performance of your digital marketing campaigns using advanced analytics
+                  tools. </p>
               </div>
-        </div>
+            </div>
 
-        <div class="col-lg-3 col-md-6">
-            <div class="service-boxarea">
+            <div class="col-lg-3 col-md-6">
+              <div class="service-boxarea">
                 <a href="service1.php">One Page SEO Optimization</a>
                 <div class="space40"></div>
                 <img src="assets/img/icons/service-icon18.svg" alt="">
                 <div class="space40"></div>
-                <p>We optimize key on-page elements of your website, including title tags, meta descriptions, headers, and content with your target keywords.</p>
+                <p>We optimize key on-page elements of your website, including title tags, meta descriptions, headers,
+                  and content with your target keywords.</p>
               </div>
-        </div>
+            </div>
           </div>
-        </div>
         </div>
       </div>
     </div>
   </div>
+</div>
 <!--===== SERVICE AREA ENDS =======-->
 
 <!--===== WORK AREA STARTS =======-->
 <div class="works-inner-section-area sp10">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="works-header-area heading2">
-                    <h5>Why Choose Us</h5>
-                    <h2>Experience the Advantage Why We're the Right Choice</h2>
-                    <p>At SEOC we understand that you have many options when it comes to digital marketing services. So why should you choose us? Here are a few reasons</p>
-                    <div class="space32"></div>
-                    <div class="works-content-box">
-                        <div class="icons">
-                            <img src="assets/img/icons/works-icons7.svg" alt="">
-                        </div>
-                        <div class="content">
-                            <a href="case-single.php">Proven Result</a>
-                            <p>We have a track record of delivering tangible results for our clients. From increasing website traffic and improving search. </p>
-                        </div>
-                    </div>
-                    <div class="space20"></div>
-                    <div class="works-content-box">
-                        <div class="icons">
-                            <img src="assets/img/icons/works-icons8.svg" alt="">
-                        </div>
-                        <div class="content">
-                            <a href="case-single.php">Customized Solutions</a>
-                            <p>We believe that one size does not fit all when it comes to digital marketing. That's why we take the time to understand your SEO. </p>
-                        </div>
-                    </div>
-                    <div class="space20"></div>
-                    <div class="works-content-box">
-                        <div class="icons">
-                            <img src="assets/img/icons/works-icons9.svg" alt="">
-                        </div>
-                        <div class="content">
-                            <a href="case-single.php">Dedicated Support</a>
-                            <p>Your success is our top priority. That's why provide dedicated support and guidance every step of the way to running seo.</p>
-                        </div>
-                    </div>
-                </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="works-header-area heading2">
+          <h5>Why Choose Us</h5>
+          <h2>Experience the Advantage Why We're the Right Choice</h2>
+          <p>At SEOC we understand that you have many options when it comes to digital marketing services. So why should
+            you choose us? Here are a few reasons</p>
+          <div class="space32"></div>
+          <div class="works-content-box">
+            <div class="icons">
+              <img src="assets/img/icons/works-icons7.svg" alt="">
             </div>
-            <div class="col-lg-6">
-                <div class="about-all-images-area">
-                    <img src="assets/img/elements/elements14.png" alt="" class="elements12 keyframe5">
-                    <img src="assets/img/elements/elements15.png" alt="" class="elements13 keyframe5">
-                    <div class="row">
-                      <div class="col-lg-6 col-md-6">
-                        <div class="img1 image-anime">
-                            <div class="space100"></div>
-                          <img src="assets/img/all-images/about-img6.png" alt="">
-                        </div>
-                      </div>
-                      <div class="col-lg-6 col-md-6">
-                        <div class="img2 image-anime">
-                          <img src="assets/img/all-images/about-img5.png" alt="">
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+            <div class="content">
+              <a href="case-single.php">Proven Result</a>
+              <p>We have a track record of delivering tangible results for our clients. From increasing website traffic
+                and improving search. </p>
             </div>
+          </div>
+          <div class="space20"></div>
+          <div class="works-content-box">
+            <div class="icons">
+              <img src="assets/img/icons/works-icons8.svg" alt="">
+            </div>
+            <div class="content">
+              <a href="case-single.php">Customized Solutions</a>
+              <p>We believe that one size does not fit all when it comes to digital marketing. That's why we take the
+                time to understand your SEO. </p>
+            </div>
+          </div>
+          <div class="space20"></div>
+          <div class="works-content-box">
+            <div class="icons">
+              <img src="assets/img/icons/works-icons9.svg" alt="">
+            </div>
+            <div class="content">
+              <a href="case-single.php">Dedicated Support</a>
+              <p>Your success is our top priority. That's why provide dedicated support and guidance every step of the
+                way to running seo.</p>
+            </div>
+          </div>
         </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="about-all-images-area">
+          <img src="assets/img/elements/elements14.png" alt="" class="elements12 keyframe5">
+          <img src="assets/img/elements/elements15.png" alt="" class="elements13 keyframe5">
+          <div class="row">
+            <div class="col-lg-6 col-md-6">
+              <div class="img1 image-anime">
+                <div class="space100"></div>
+                <img src="assets/img/all-images/about-img6.png" alt="">
+              </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+              <div class="img2 image-anime">
+                <img src="assets/img/all-images/about-img5.png" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
+  </div>
 </div>
 <!--===== WORK AREA ENDS =======-->
 
@@ -340,157 +353,157 @@
   <img src="assets/img/bg/cta-bg1.png" alt="" class="cta-bg1 aniamtion-key-2">
   <img src="assets/img/bg/cta-bg2.png" alt="" class="cta-bg2 aniamtion-key-1">
   <div class="container">
-      <div class="row">
-          <div class="col-lg-3 m-auto">
-              <div class="skills-header text-center heading2">
-                  <h5>Skills</h5>
-                  <h2>Our Skills</h2>
-              </div>
-          </div>
+    <div class="row">
+      <div class="col-lg-3 m-auto">
+        <div class="skills-header text-center heading2">
+          <h5>Skills</h5>
+          <h2>Our Skills</h2>
+        </div>
       </div>
-      <div class="col-lg-10 m-auto">
-        <div class="circle-progress-area">
-          <div class="row">
-            <div class="col-lg-3 col-md-6">
-              <div class="progresbar">
-                <div class="progressbar">
-                   <div class="circle" data-percent="82">
-                    <canvas></canvas>
-                       <div>82%</div>
-                  </div>
+    </div>
+    <div class="col-lg-10 m-auto">
+      <div class="circle-progress-area">
+        <div class="row">
+          <div class="col-lg-3 col-md-6">
+            <div class="progresbar">
+              <div class="progressbar">
+                <div class="circle" data-percent="82">
+                  <canvas></canvas>
+                  <div>82%</div>
                 </div>
-                <p>S M M</p>
               </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6">
-              <div class="progresbar">
-                <div class="progressbar">
-                  <div class="circle two" data-percent="49">
-                    <canvas></canvas>
-                      <div>49%</div>
-                 </div>
-               </div>
-               <p>P P C</p>
-              </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6">
-              <div class="progresbar">
-                <div class="progressbar">
-                  <div class="circle three" data-percent="99">
-                    <canvas></canvas>
-                     <div>99%</div>
-                  </div>
-                 </div>
-                 <p>SEO</p>
-              </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6">
-              <div class="progresbar">
-                <div class="progressbar">
-                  <div class="circle four" data-percent="95">
-                    <canvas></canvas>
-                     <div>95%</div>
-                  </div>
-                 </div>
-                 <p>Digital Marketing</p>
-              </div>
-            </div>
-        </div>
-        </div>
-      </div>
-  </div>
-</div>
-<!--===== SKILLS AREA ENDS =======-->
-
-<!--===== TEAM AREA STARTS =======-->
-<div class="team-inner-section-area sp2">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6 m-auto">
-          <div class="team2-header-area text-center heading2">
-            <h5>Our Team</h5>
-            <h2>Meet With Our Expert Team</h2>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-3 col-md-6">
-          <div class="team-boxarea">
-            <div class="img1">
-              <img src="assets/img/all-images/team-img1.png" alt="">
-            </div>
-            <ul>
-              <li><a href="#"><img src="assets/img/icons/facebook.svg" alt=""></a></li>
-              <li><a href="#"><img src="assets/img/icons/instagram.svg" alt=""></a></li>
-              <li><a href="#"><img src="assets/img/icons/linkedin.svg" alt=""></a></li>
-              <li><a href="#" class="m-0"><img src="assets/img/icons/youtube.svg" alt=""></a></li>
-            </ul>
-            <div class="content">
-              <a href="team.php">John Doe</a>
-              <p>CEO & Founder</p>
+              <p>S M M</p>
             </div>
           </div>
-        </div>
-  
-        <div class="col-lg-3 col-md-6">
-          <div class="team-boxarea">
-            <div class="img1">
-              <img src="assets/img/all-images/team-img2.png" alt="">
-            </div>
-            <ul>
-                <li><a href="#"><img src="assets/img/icons/facebook.svg" alt=""></a></li>
-                <li><a href="#"><img src="assets/img/icons/instagram.svg" alt=""></a></li>
-                <li><a href="#"><img src="assets/img/icons/linkedin.svg" alt=""></a></li>
-                <li><a href="#" class="m-0"><img src="assets/img/icons/youtube.svg" alt=""></a></li>
-            </ul>
-            <div class="content">
-              <a href="team.php">Jane Smith</a>
-              <p>Digital Marketing Officer</p>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="progresbar">
+              <div class="progressbar">
+                <div class="circle two" data-percent="49">
+                  <canvas></canvas>
+                  <div>49%</div>
+                </div>
+              </div>
+              <p>P P C</p>
             </div>
           </div>
-        </div>
-  
-        <div class="col-lg-3 col-md-6">
-          <div class="team-boxarea">
-            <div class="img1">
-              <img src="assets/img/all-images/team-img3.png" alt="">
-            </div>
-            <ul>
-                <li><a href="#"><img src="assets/img/icons/facebook.svg" alt=""></a></li>
-                <li><a href="#"><img src="assets/img/icons/instagram.svg" alt=""></a></li>
-                <li><a href="#"><img src="assets/img/icons/linkedin.svg" alt=""></a></li>
-                <li><a href="#" class="m-0"><img src="assets/img/icons/youtube.svg" alt=""></a></li>
-            </ul>
-            <div class="content">
-              <a href="team.php">Sarah Thompson </a>
-              <p>Web Designer</p>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="progresbar">
+              <div class="progressbar">
+                <div class="circle three" data-percent="99">
+                  <canvas></canvas>
+                  <div>99%</div>
+                </div>
+              </div>
+              <p>SEO</p>
             </div>
           </div>
-        </div>
-  
-        <div class="col-lg-3 col-md-6">
-          <div class="team-boxarea m-0">
-            <div class="img1">
-              <img src="assets/img/all-images/team-img4.png" alt="">
-            </div>
-            <ul>
-                <li><a href="#"><img src="assets/img/icons/facebook.svg" alt=""></a></li>
-                <li><a href="#"><img src="assets/img/icons/instagram.svg" alt=""></a></li>
-                <li><a href="#"><img src="assets/img/icons/linkedin.svg" alt=""></a></li>
-                <li><a href="#" class="m-0"><img src="assets/img/icons/youtube.svg" alt=""></a></li>
-            </ul>
-            <div class="content">
-              <a href="team.php">David Garcia</a>
-              <p>Content Writer</p>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="progresbar">
+              <div class="progressbar">
+                <div class="circle four" data-percent="95">
+                  <canvas></canvas>
+                  <div>95%</div>
+                </div>
+              </div>
+              <p>Digital Marketing</p>
             </div>
           </div>
         </div>
       </div>
     </div>
   </div>
+</div>
+<!--===== SKILLS AREA ENDS =======-->
+
+<!--===== TEAM AREA STARTS =======-->
+<div class="team-inner-section-area sp2">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 m-auto">
+        <div class="team2-header-area text-center heading2">
+          <h5>Our Team</h5>
+          <h2>Meet With Our Expert Team</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-md-6">
+        <div class="team-boxarea">
+          <div class="img1">
+            <img src="assets/img/all-images/team-img1.png" alt="">
+          </div>
+          <ul>
+            <li><a href="#"><img src="assets/img/icons/facebook.svg" alt=""></a></li>
+            <li><a href="#"><img src="assets/img/icons/instagram.svg" alt=""></a></li>
+            <li><a href="#"><img src="assets/img/icons/linkedin.svg" alt=""></a></li>
+            <li><a href="#" class="m-0"><img src="assets/img/icons/youtube.svg" alt=""></a></li>
+          </ul>
+          <div class="content">
+            <a href="team.php">John Doe</a>
+            <p>CEO & Founder</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6">
+        <div class="team-boxarea">
+          <div class="img1">
+            <img src="assets/img/all-images/team-img2.png" alt="">
+          </div>
+          <ul>
+            <li><a href="#"><img src="assets/img/icons/facebook.svg" alt=""></a></li>
+            <li><a href="#"><img src="assets/img/icons/instagram.svg" alt=""></a></li>
+            <li><a href="#"><img src="assets/img/icons/linkedin.svg" alt=""></a></li>
+            <li><a href="#" class="m-0"><img src="assets/img/icons/youtube.svg" alt=""></a></li>
+          </ul>
+          <div class="content">
+            <a href="team.php">Jane Smith</a>
+            <p>Digital Marketing Officer</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6">
+        <div class="team-boxarea">
+          <div class="img1">
+            <img src="assets/img/all-images/team-img3.png" alt="">
+          </div>
+          <ul>
+            <li><a href="#"><img src="assets/img/icons/facebook.svg" alt=""></a></li>
+            <li><a href="#"><img src="assets/img/icons/instagram.svg" alt=""></a></li>
+            <li><a href="#"><img src="assets/img/icons/linkedin.svg" alt=""></a></li>
+            <li><a href="#" class="m-0"><img src="assets/img/icons/youtube.svg" alt=""></a></li>
+          </ul>
+          <div class="content">
+            <a href="team.php">Sarah Thompson </a>
+            <p>Web Designer</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6">
+        <div class="team-boxarea m-0">
+          <div class="img1">
+            <img src="assets/img/all-images/team-img4.png" alt="">
+          </div>
+          <ul>
+            <li><a href="#"><img src="assets/img/icons/facebook.svg" alt=""></a></li>
+            <li><a href="#"><img src="assets/img/icons/instagram.svg" alt=""></a></li>
+            <li><a href="#"><img src="assets/img/icons/linkedin.svg" alt=""></a></li>
+            <li><a href="#" class="m-0"><img src="assets/img/icons/youtube.svg" alt=""></a></li>
+          </ul>
+          <div class="content">
+            <a href="team.php">David Garcia</a>
+            <p>Content Writer</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <!--===== TEAM AREA ENDS =======-->
 
 <!--===== CTA AREA STARTS =======-->
@@ -499,12 +512,14 @@
   <img src="assets/img/bg/cta-bg2.png" alt="" class="cta-bg2 aniamtion-key-1">
   <div class="container">
     <div class="row">
-      <div class="col-lg-12 m-auto">  
+      <div class="col-lg-12 m-auto">
         <div class="cta-header-area text-center sp4 heading2">
           <h2>Ready To Take Your SEO To <br class="d-md-block d-none"> The Next Level</h2>
-          <p>Effective SEO strategies not only elevate a website's visibility but also drive <br class="d-md-block d-none"> targeted traffic, enhance user experience,</p>
+          <p>Effective SEO strategies not only elevate a website's visibility but also drive <br
+              class="d-md-block d-none"> targeted traffic, enhance user experience,</p>
           <div class="btn-area text-center">
-            <a href="contact.php" class="header-btn1">Free Consultation <span><i class="fa-solid fa-arrow-right"></i></span></a>
+            <a href="contact.php" class="header-btn1">Free Consultation <span><i
+                  class="fa-solid fa-arrow-right"></i></span></a>
           </div>
         </div>
       </div>

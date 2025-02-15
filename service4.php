@@ -83,10 +83,10 @@
       </li>
       <li><a href="#">Blogs</a>
         <ul class="sub-menu">
-          <li><a href="blog.php">Blog One</a></li>
+          <li><a href="blogs.php">Blog One</a></li>
           <li><a href="blog-left.php">Blog Left</a></li>
           <li><a href="blog-right.php">Blog Right</a></li>
-          <li><a href="blog-single.php">Blog Single</a></li>
+          <li><a href="blog.php">Blog Single</a></li>
         </ul>
       </li>
       <li><a href="#">Pages</a>
@@ -850,9 +850,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
                 </ul>
               </div>
-              <a href="blog-single.php">10 Essential SEO Tips to Boost Your Website's Ranking</a>
+              <a href="blog.php">10 Essential SEO Tips to Boost Your Website's Ranking</a>
               <p>Are you looking to improve your website's visibility and attract more organic traffic? </p>
-              <a href="blog-single.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+              <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
           <div class="space30 d-lg-none d-block"></div>
@@ -870,9 +870,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
                 </ul>
               </div>
-              <a href="blog-single.php">The Power of PPC Advertising: How to Maximize Your ROI</a>
+              <a href="blog.php">The Power of PPC Advertising: How to Maximize Your ROI</a>
               <p>Unlock the full potential of your digital marketing strategy with the power of PPC.</p>
-              <a href="blog-single.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+              <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
           <div class="space30 d-lg-none d-block"></div>
@@ -890,9 +890,9 @@
                   <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
                 </ul>
               </div>
-              <a href="blog-single.php">The Importance of Responsive Web Design in the Mobile Age</a>
+              <a href="blog.php">The Importance of Responsive Web Design in the Mobile Age</a>
               <p>Where mobile devices dominate internet usage, responsive web design more crucial.</p>
-              <a href="blog-single.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+              <a href="blog.php" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
         </div>

@@ -16,7 +16,7 @@
                     <p>At Web Services Global, we use creativity to help brands grow & connect with their audience in a simple and meaningful way.</p>
                     <div class="space32"></div>
                     <div class="btn-area1">
-                        <a href="contact.php" class="header-btn21">Our Success Stories <i class="fa-solid fa-arrow-right"></i></a>
+                        <a href="about.php" class="header-btn21">Our Success Stories <i class="fa-solid fa-arrow-right"></i></a>
                         <a href="contact.php" class="header-btn21 btn2">Contact Us <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -75,16 +75,16 @@
                 <div class="about13-header heading20">
                     <!-- <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/logo-icons8.svg" alt="">About us</h5> -->
                     <div class="space16"></div>
-                    <h2 class="text-anime-style-3">The Minds Behind Your Brand’s Success</h2>
+                    <h2 class="text-anime-style-3">Success Stories for Your Brand's Journey</h2>
                     <div class="space16"></div>
-                    <p data-aos="fade-left" data-aos-duration="1000">At the heart of our agency is a passion for creativity and a relentless drive to push boundaries. We are a team of thinkers, dreamers, and doers who specialize in crafting unique strategies bring brands.</p>
+                    <p data-aos="fade-left" data-aos-duration="1000">Crafting Success Stories for Your Brand's Journey, we combine innovation, strategy, and creativity to elevate your brand, ensuring impactful engagement, enhanced visibility, consistent results, sustainable success, and measurable growth in today's competitive digital landscape.</p>
                     <div class="row">
                         <div class="col-lg-6 col-md-6" data-aos="zoom-in" data-aos-duration="900">
                             <div class="about-icons">
                                     <div class="icons">
                                         <img src="assets/img/icons/about1-h13.svg" alt="">
                                     </div>
-                                    <a href="about.php">Our Story Creative Innovation</a>
+                                    <a href="about.php">Strategies for Marketing</a>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6" data-aos="zoom-in" data-aos-duration="1000">
@@ -92,12 +92,12 @@
                                     <div class="icons">
                                         <img src="assets/img/icons/about2-h13.svg" alt="">
                                     </div>
-                                    <a href="about.php">Driven Creativity Focused </a>
+                                    <a href="about.php">Innovation Meets Results </a>
                             </div>
                         </div>
                     </div>
                     <div class="space24"></div>
-                    <p data-aos="fade-left" data-aos-duration="1100">Our mission is simple: to help brands stand in a crowded market & connect with their audience in meaningful, lasting ways. We’re not just an agency.</p>
+                    <p data-aos="fade-left" data-aos-duration="1100">We transform ideas into impactful narratives, empowering your brand with strategies that inspire, engage, and deliver measurable results in today's dynamic digital marketplace.</p>
                     <div class="space32"></div>
                     <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
                       <a href="contact.php" class="header-btn21">Get Free Quote <i class="fa-solid fa-arrow-right"></i></a>
@@ -118,7 +118,7 @@
           <div class="heading20">
             <!-- <h5 class="fade-left" data-aos-duration="800"><img src="assets/img/icons/logo-icons8.svg" alt="">Our Services</h5> -->
             <div class="space16"></div>
-            <h2 class="text-anime-style-3">Tailored Solutions For <br class="d-md-block d-none"> Every Brand</h2>
+            <h2 class="text-anime-style-3">Our Expertise in Digital  <br class="d-md-block d-none"> Marketing Excellence</h2>
           </div>
           <div class="btn-area1">
             <a href="service1.php" class="header-btn21">View All Service <i class="fa-solid fa-arrow-right"></i></a>
@@ -134,9 +134,9 @@
           </div>
           <div class="space32"></div>
           <div class="content-area">
-            <a href="service1.php" class="head">Advertising Campaign Creation</a>
+            <a href="service1.php" class="head">Search Engine Optimization (SEO)</a>
             <div class="space16"></div>
-            <p>Our agency offers a comprehensive range of services designed to elevate your brand and maximize its impact. From Brand Strategy</p>
+            <p>Boost online visibility and rankings with strategic SEO, using keyword research and ethical white-hat techniques to dominate search results.</p>
             <div class="space24"></div>
             <a href="service1.php" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             <h2>01</h2>
@@ -150,9 +150,9 @@
           </div>
           <div class="space32"></div>
           <div class="content-area">
-            <a href="service1.php" class="head">Brand Strategy & Development</a>
+            <a href="service1.php" class="head">Website Design & Development</a>
             <div class="space16"></div>
-            <p>From Brand Strategy & Creative Campaigns to Digital Marketing and Media Planning, we bring a unique blend of innovation expertise</p>
+            <p>We create visually engaging, user-friendly websites with responsive designs and strong functionality to boost brand representation and business growth.</p>
             <div class="space24"></div>
             <a href="service1.php" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             <h2>02</h2>
@@ -167,9 +167,9 @@
           </div>
           <div class="space32"></div>
           <div class="content-area">
-            <a href="service1.php" class="head">Targeted Media Buying & Planning</a>
+            <a href="service1.php" class="head">Pay Per Click (PPC)</a>
             <div class="space16"></div>
-            <p>Whether you need targeted social media campaigns, eye-catching visuals, or data-driven performance optimization.</p>
+            <p>Our PPC campaigns maximize ROI by targeting the right audience, driving high-quality traffic, and boosting conversions quickly for immediate visibility.</p>
             <div class="space24"></div>
             <a href="service1.php" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             <h2>03</h2>
@@ -184,9 +184,9 @@
           </div>
           <div class="space32"></div>
           <div class="content-area">
-            <a href="service1.php" class="head">Graphic Design & Visual Branding</a>
+            <a href="service1.php" class="head">Social Media Marketing</a>
             <div class="space16"></div>
-            <p>Each service is tailored meet your specific goals, ensuring that your brand stands out, engages, and drives measurable results</p>
+            <p>Social media marketing builds strong connections with your audience, boosts brand awareness, drives traffic, and enhances customer loyalty across platforms.</p>
             <div class="space24"></div>
             <a href="service1.php" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             <h2>04</h2>
@@ -201,9 +201,9 @@
           </div>
           <div class="space32"></div>
           <div class="content-area">
-            <a href="service1.php" class="head">Influencer Marketing Partnerships</a>
+            <a href="service1.php" class="head">Content Writing</a>
             <div class="space16"></div>
-            <p>Whether you need targeted social media campaigns, eye-catching visuals, or data-driven performance optimization.</p>
+            <p>Our content writers create SEO-optimized, persuasive copy that aligns with your business goals, boosting engagement, conversions, and search engine rankings.</p>
             <div class="space24"></div>
             <a href="service1.php" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             <h2>05</h2>
@@ -218,9 +218,9 @@
           </div>
           <div class="space32"></div>
           <div class="content-area">
-            <a href="service1.php" class="head">Video Production & Animation</a>
+            <a href="service1.php" class="head">Online Reputation Management</a>
             <div class="space16"></div>
-            <p>Our agency offers a comprehensive range of services designed to elevate your brand and maximize its impact. From Brand Strategy</p>
+            <p>Our experts enhance your online reputation through review management, brand monitoring, and crisis management, building trust and long-term customer loyalty.</p>
             <div class="space24"></div>
             <a href="service1.php" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             <h2>06</h2>
@@ -248,72 +248,72 @@
       <div class="col-lg-5 col-md-6" data-aos="zoom-in" data-aos-duration="700">
         <div class="project13-boxrea">
           <div class="img1 image-anime">
-            <img src="assets/img/all-images/new-img/service-img1-h13.png" alt="">
+            <img src="assets/img/all-images/new-img/webDesign-n-Development.jpg" alt="webDesign-n-Development">
           </div>
           <div class="content-area">
-            <span>#Advertising Agency</span>
+            <span>#Web Design & Development</span>
             <div class="space16"></div>
-            <a href="service1.php">A branding & visual <br> design overhaul.</a>
+            <a href="service1.php">Building Modern, Engaging, <br> and High-Performing Websites.</a>
           </div>
         </div>
       </div>
       <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-duration="800">
         <div class="project13-boxrea">
           <div class="img1 image-anime">
-            <img src="assets/img/all-images/new-img/service-img2-h13.png" alt="">
+            <img src="assets/img/all-images/new-img/seo.jpg" alt="">
           </div>
           <div class="content-area">
-            <span>#Advertising Agency</span>
+            <span>#Search Engine Optimization</span>
             <div class="space16"></div>
-            <a href="service1.php">A branding & visual <br> design overhaul.</a>
+            <a href="service1.php">Boosting Visibility   <br>with Smart SEO Strategies.</a>
           </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="900">
         <div class="project13-boxrea">
           <div class="img1 image-anime">
-            <img src="assets/img/all-images/new-img/service-img3-h13.png" alt="">
+            <img src="assets/img/all-images/new-img/social-media-marketing.jpg" alt="">
           </div>
           <div class="content-area">
-            <span>#Advertising Agency</span>
+            <span>#Social Media Marketing</span>
             <div class="space16"></div>
-            <a href="service1.php">A branding & visual <br> design overhaul.</a>
+            <a href="service1.php">Connecting Brands with  <br> Audiences Through Social Media.</a>
           </div>
         </div>
       </div>
       <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-duration="1000">
         <div class="project13-boxrea">
           <div class="img1 image-anime">
-            <img src="assets/img/all-images/new-img/service-img4-h13.png" alt="">
+            <img src="assets/img/all-images/new-img/online-reputation-management.jpg" alt="">
           </div>
           <div class="content-area">
-            <span>#Advertising Agency</span>
+            <span>#Online Reputation Management</span>
             <div class="space16"></div>
-            <a href="service1.php">A branding & visual <br> design overhaul.</a>
+            <a href="service1.php">Protecting and Enhancing Your <br>  Digital Presence.</a>
           </div>
         </div>
       </div>
       <div class="col-lg-5 col-md-6" data-aos="zoom-in" data-aos-duration="1100">
         <div class="project13-boxrea">
           <div class="img1 image-anime">
-            <img src="assets/img/all-images/new-img/service-img5-h13.png" alt="">
+            <img src="assets/img/all-images/new-img/pay-per-click.jpg" alt="">
           </div>
           <div class="content-area">
-            <span>#Advertising Agency</span>
+            <span>#Pay Per Click</span>
             <div class="space16"></div>
-            <a href="service1.php">A branding & visual <br> design overhaul.</a>
+            <a href="service1.php">Driving Instant Traffic with <br>  Targeted PPC Campaigns.</a>
           </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1200">
         <div class="project13-boxrea">
           <div class="img1 image-anime">
-            <img src="assets/img/all-images/new-img/service-img6-h13.png" alt="">
+            <img src="assets/img/all-images/new-img/content-writing.jpg" alt="">
           </div>
           <div class="content-area">
-            <span>#Advertising Agency</span>
+            <span>#Content Writing</span>
             <div class="space16"></div>
-            <a href="service1.php">A branding & visual <br> design overhaul.</a>
+            <a href="service1.php">Crafting Words That  <br> Engage and Inspire.</a>
           </div>
         </div>
       </div>
@@ -521,10 +521,10 @@
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-5">
-        <div class="others-header heading20">
-          <h2 class="text-anime-style-3">All Your Client's Marketing Data in One Place</h2>
+        <div class="others-header">
+          <h2 class="text-anime-style-3">Transform Your Business with Web Development and Digital Marketing</h2>
           <div class="space16"></div>
-          <p data-aos="fade-left" data-aos-duration="1000">Marketing moves fast, and so do we. With 75+ marketing integration and new releases each month, we’ll keep you up- to-date with all your client’s data in one place.</p>
+          <p data-aos="fade-left" data-aos-duration="1000">Boost your online presence with our professional website development and digital marketing services. We deliver tailored solutions to drive traffic, enhance engagement, and maximize your business growth.</p>
           <div class="space32"></div>
           <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
             <a href="contact.php" class="header-btn21">Get A Free Proposal <i class="fa-solid fa-arrow-right"></i></a>
@@ -602,7 +602,7 @@
         <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="800">
           <div class="blog-auhtor-boxarea">
             <ul>
-              <li><a href="#"><i class="fa-regular fa-circle-user"></i>John Doe</a></li>
+              <li><a href="#"><i class="fa-regular fa-circle-user"></i>Abhishek Bhopali</a></li>
               <li class="m-0"><a href="#"><i class="fa-solid fa-calendar-days"></i> 12 Feb 2024</a></li>
             </ul>
             <div class="space24"></div>
@@ -611,11 +611,11 @@
             </div>
             <div class="space24"></div>
             <div class="blog-content-area">
-              <a href="blog-single.php">Unleashing Creativity: The Art and Science of Effective Advertising</a>
+              <a href="blog.php">The Future of Web Development Services: Revolutionizing...</a>
               <div class="space16"></div>
-              <p>t’s a delicate balance & science, combining creative vision with data-driven strategy.</p>
+              <p>In today’s digital-first world, having a robust online presence is essential for business success. Websites...</p>
               <div class="space24"></div>
-              <a href="blog-single.php" class="readmore">Learn More<i class="fa-solid fa-arrow-right"></i></a>
+              <a href="blog.php" class="readmore">Learn More<i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -623,8 +623,8 @@
         <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
           <div class="blog-auhtor-boxarea">
             <ul>
-              <li><a href="#"><i class="fa-regular fa-circle-user"></i>John Doe</a></li>
-              <li><a href="#"><i class="fa-solid fa-calendar-days"></i> 12 Feb 2024</a></li>
+              <li><a href="#"><i class="fa-regular fa-circle-user"></i>Sumit Anand</a></li>
+              <li><a href="#"><i class="fa-solid fa-calendar-days"></i> 15 Apr 2024</a></li>
             </ul>
             <div class="space24"></div>
             <div class="img1 image-anime">
@@ -632,19 +632,19 @@
              </div>
             <div class="blog-content-area">
               <div class="space24"></div>
-              <a href="blog-single.php">Exploring Strategies, Trends, and Insights to Elevate Your Brand</a>
+              <a href="blog.php">The Importance of Web Design and Maintenance for Your...</a>
               <div class="space16"></div>
-              <p>In this blog, we delve into the elements that make advertising truly impactful. </p>
+              <p>In today’s digital-first world, a strong online presence is crucial for business growth. The foundation of this... </p>
               <div class="space24"></div>
-              <a href="blog-single.php" class="readmore">Learn More<i class="fa-solid fa-arrow-right"></i></a>
+              <a href="blog.php" class="readmore">Learn More<i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1200">
           <div class="blog-auhtor-boxarea">
             <ul>
-              <li><a href="#"><i class="fa-regular fa-circle-user"></i>John Doe</a></li>
-              <li><a href="#"><i class="fa-solid fa-calendar-days"></i> 12 Feb 2024</a></li>
+              <li><a href="#"><i class="fa-regular fa-circle-user"></i>Arbaz Saifi</a></li>
+              <li><a href="#"><i class="fa-solid fa-calendar-days"></i> 10 May 2024</a></li>
             </ul>
             <div class="space24"></div>
             <div class="img1 image-anime">
@@ -652,11 +652,11 @@
              </div>
             <div class="blog-content-area">
               <div class="space24"></div>
-              <a href="blog-single.php">Unleashing Creativity: Trends Shaping the Future of Advertising</a>
+              <a href="blog.php">Explore the Power of Digital Marketing Services to Acceler...</a>
               <div class="space16"></div>
-              <p>Explore how emerging trends and innovative strategies are revolutionizing the advertising</p>
+              <p>In today’s digital age, a strong online presence is essential for businesses to thrive. Traditional marketing methods...</p>
               <div class="space24"></div>
-              <a href="blog-single.php" class="readmore">Learn More<i class="fa-solid fa-arrow-right"></i></a>
+              <a href="blog.php" class="readmore">Learn More<i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
         </div>
